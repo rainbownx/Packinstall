@@ -6,6 +6,8 @@
 # Set to 'true' to enable verbose output for debugging purposes.
 DEBUG_MODE="false"
 
+SCRIPT_VERSION="1.0.0"
+
 # --- Function to display usage information ---
 # This function is called if the script is run without the required arguments.
 usage() {

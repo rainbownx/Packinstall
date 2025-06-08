@@ -26,7 +26,7 @@ The easiest way to install `packinstall` is to use the provided `install.sh` scr
 
 3.  **Verify installation:**
     ```bash
-    packinstall --version # (Optional: if you add a --version flag to your script later)
+    packinstall --version
     ```
     Or just try installing a package:
     ```bash

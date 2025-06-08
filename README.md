@@ -39,7 +39,8 @@ Once installed, simply run `packinstall` followed by the name of the package you
 
 ```bash
 packinstall <package_name>
-# 🌍 Supported Distributions
+
+## 🌍 Supported Distributions
 
 packinstall aims to support the following major Linux distributions and their derivatives:
 

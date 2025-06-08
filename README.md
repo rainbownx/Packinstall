@@ -20,7 +20,7 @@ The easiest way to install `packinstall` is to use the provided `install.sh` scr
 2.  **Download and run the installer script:**
 
     ```bash
-    curl -fsSL [https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/packinstall/main/install.sh](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/packinstall/main/install.sh) | bash
+    curl -fsSL https://raw.githubusercontent.com/rainbownx/Packinstall/main/install.sh | bash
     ```
     *(Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username!)*
 

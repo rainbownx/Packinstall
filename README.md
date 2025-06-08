@@ -39,30 +39,3 @@ Once installed, simply run `packinstall` followed by the name of the package you
 
 ```bash
 packinstall <package_name>
-
-## 🌍 Supported Distributions
-
-packinstall aims to support the following major Linux distributions and their derivatives:
-
-    Debian / Ubuntu / Linux Mint / Pop!_OS (uses apt)
-    Fedora / CentOS / RHEL / AlmaLinux / Rocky Linux (uses dnf or yum)
-    Arch Linux / Manjaro / EndeavourOS (uses pacman)
-    OpenSUSE (Leap/Tumbleweed) / SLES (uses zypper)
-    Gentoo (uses emerge)
-    Alpine Linux (uses apk)
-
-If your distribution is not explicitly listed but is based on one of the above, it might still work. If not, please open an issue!
-🤝 Contributing
-
-Contributions are welcome! If you find a bug, have a feature request, or want to improve the script:
-
-    Fork the repository.
-    Create a new branch (git checkout -b feature/your-feature).
-    Make your changes. 4. Commit your changes (git commit -m 'Add new feature').
-    Push to your branch (git push origin feature/your-feature).
-    Open a Pull Request.
-
-Please ensure your code adheres to good Bash scripting practices and is well-commented.
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
